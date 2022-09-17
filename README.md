@@ -45,6 +45,7 @@
 -   The mouse trails use the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a> and the HTML `<canvas>` element to draw graphics and animations.
 
 <br>
+
 #
 
 <p id="installation"><p>
